@@ -120,6 +120,4 @@ This project is licensed under the MIT License.
 
 Promise Ugochukwu Nnanemere
 
-+ GitHub: @PromiseUgochukwuNnanemere
-
-+ LinkedIn: in/promiseugochukwunnanemere
+[🔗 LinkedIn](https://linkedin.com/in/promiseugochukwunnanemere)
